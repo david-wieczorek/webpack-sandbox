@@ -15,4 +15,5 @@ bower_components
 
 # Dependency directories
 node_modules/
-jspm_packages/
+
+dist/main.js
